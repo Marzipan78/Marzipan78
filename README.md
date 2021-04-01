@@ -11,9 +11,6 @@
 
 - ⚡ Fun fact: I am a foodiee 🐼
 
-### Youtube Music Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://music.youtube.com/watch?v=rGWqWcZriiw&list=RDAMVMrGWqWcZriiw)
 
 ### Connect with me:
 
