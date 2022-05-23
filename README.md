@@ -4,11 +4,10 @@
 ## I'm a Master in Finance Student,AI Engineer in the making with Strive and a former International cricketer for Kenya!!
 
 
-- 🌱 I’m constantly learninh 🤣
+- 🌱 I’m constantly learning 🤣
 - I mean everything from list comprehensions to Neural Networks, heck even learning how to do Markdown.
 - 👯 I’m looking to collaborate with other curious bugs just like me, no matter what the topic is, well preferably in the field of AI 😝
 - 🥅 2021 Goals: Master Machine & Deep Learning Techniques mainly NLP and get projects under my belt. Learn German and finish My Master in Finance. 🙌
-
 - ⚡ Fun fact: I am a foodiee 🐼
 
 
