@@ -26,22 +26,6 @@ it makes you wonder about all the possibilities that can take place when we can 
 
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Marzipan78's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Marzipan78&show_icons=true&hide_border=true" />
-
-</details>
-
 
 [instagram]: https://instagram.com/a_slygabru/
 [linkedin]: https://www.linkedin.com/in/paramveer-singh07/
